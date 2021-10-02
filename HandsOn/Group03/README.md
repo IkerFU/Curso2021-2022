@@ -1,4 +1,4 @@
-# HandsOn: Group 02
+# HandsOn: Group 03
 
 ## Group members:
 
